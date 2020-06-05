@@ -1,6 +1,6 @@
 # conversor-de-criptomonedas
 
-## Obejtivo del proyecto.
+## Objetivo del proyecto.
 Consumir informacion de la API de Crypto Compare https://min-api.cryptocompare.com/
 
 ## Metodo
